@@ -17,4 +17,4 @@ This project demonstrates an end-to-end data pipeline for credit application ana
 ## 📄 Documentation
 You can find the detailed case study here:
 
-👉 [View Case Study PDF](credit_pipeline_case_study.pdf)
+👉 [View Case Study PDF](Emirhan_İdiz_Case_Study_Raporu.pdf)
